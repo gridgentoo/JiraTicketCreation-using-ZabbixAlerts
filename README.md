@@ -29,7 +29,7 @@ Prerequisite
 
 * **$ git clone** the repository.
 
-	` $ git clone https://github.com/abhijith0505/JIRA-ticket-creationg-using-zabbix-alerts.git`
+	` $ git clone https://github.com/gridgentoo/JiraTicketCreation-using-ZabbixAlerts.git`
 
 * Install the required modules using,
 
